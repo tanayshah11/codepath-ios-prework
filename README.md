@@ -45,6 +45,10 @@ GIF created with ...
 - Single threaded browser, although slow, but ensures user privacy.
 - Never fails to load content as compared to chrome which has content loading issues (sometimes, due to multithreading).
 
+## App Idea
+
+### I want to create an App that has the features of Instagram and SnapChat combined. With option to have streaks, posts, reels, and social networking. For example, we can make an app which can do streaks with Close Friends on Insta. That way we can increase customer retention on a daily basis. Moreover, this app includes the feature to post your viewpoints on some topic in a reel way with templates.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
